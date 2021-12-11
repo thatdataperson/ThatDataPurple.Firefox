@@ -1,0 +1,32 @@
+{
+  "manifest_version": 2,
+  "version": "3.0",
+  "name": "ThatDataPurple",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/bg-000-5672c42860d5b06e1058dc477397f3ef.svg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(67, 32, 204)",
+      "toolbar_text": "rgb(255, 255, 255)",
+      "frame": "rgb(64, 16, 162)",
+      "tab_background_text": "rgb(170, 170, 170)",
+      "toolbar_field": "rgb(204, 32, 83)",
+      "toolbar_field_text": "rgb(255, 255, 255)",
+      "tab_line": "rgb(204, 32, 83)",
+      "popup": "rgb(64, 16, 162)",
+      "popup_text": "rgb(255, 255, 255)",
+      "tab_loading": "rgb(204, 32, 83)"
+    }
+  }
+}
