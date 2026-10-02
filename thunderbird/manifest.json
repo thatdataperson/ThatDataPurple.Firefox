@@ -2,10 +2,27 @@
   "manifest_version": 2,
   "version": "2026.10.0",
   "name": "ThatDataPurple",
-  "description": "A purple theme for Firefox by That Data Person Limited.",
+  "description": "A purple theme for Thunderbird by That Data Person Limited.",
   "author": "That Data Person Limited (www.thatdataperson.com)",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "thatdatapurple@thatdataperson.com",
+      "strict_min_version": "128.0"
+    }
+  },
   "icons": {
     "128": "images/ThatDataPurple.icon.png"
+  },
+  "theme_experiment": {
+    "colors": {
+      "tdp_window": "--lwt-frame",
+      "tdp_window_inactive": "--lwt-frame-inactive",
+      "tdp_message_list": "--tree-view-bg",
+      "tdp_layout_0": "--layout-background-0",
+      "tdp_layout_1": "--layout-background-1",
+      "tdp_layout_2": "--layout-background-2",
+      "tdp_layout_3": "--layout-background-3"
+    }
   },
   "theme": {
     "colors": {
@@ -43,8 +60,13 @@
       "sidebar_border": "#2E2070",
       "sidebar_highlight": "#4320CC",
       "sidebar_highlight_text": "#FFFFFF",
-      "ntp_background": "#120A33",
-      "ntp_text": "#ECE8FA"
+      "tdp_window": "#0D0629",
+      "tdp_window_inactive": "#120A33",
+      "tdp_message_list": "#120A33",
+      "tdp_layout_0": "#0D0629",
+      "tdp_layout_1": "#120A33",
+      "tdp_layout_2": "#1B1048",
+      "tdp_layout_3": "#271862"
     },
     "properties": {
       "color_scheme": "dark",
