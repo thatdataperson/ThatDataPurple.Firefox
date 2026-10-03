@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "version": "2026.10.0",
   "name": "ThatDataPurple",
-  "description": "A purple theme for Firefox by That Data Person Limited.",
+  "description": "A purple theme for Firefox in the That Data Person brand colours, by That Data Person Limited.",
   "author": "That Data Person Limited (www.thatdataperson.com)",
   "icons": {
     "128": "images/ThatDataPurple.icon.png"

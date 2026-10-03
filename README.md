@@ -1,5 +1,5 @@
 # ThatDataPurple.Firefox
-A purple theme for Firefox and Thunderbird made with love by That Data Person Limited.
+A purple theme for Firefox and Thunderbird in the That Data Person brand colours, by That Data Person Limited.
 
 ## Screenshots
 ![Screenshot of ThatDataPurple theme applied to Firefox](https://github.com/thatdataperson/ThatDataPurple.Firefox/blob/main/images/ThatDataPurple.preview.png?raw=true)
