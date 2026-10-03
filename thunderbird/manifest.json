@@ -28,7 +28,7 @@
     "colors": {
       "frame": "#0D0629",
       "frame_inactive": "#120A33",
-      "tab_background_text": "#B3ABD6",
+      "tab_background_text": "#FFFFFF",
       "tab_selected": "#4320CC",
       "tab_text": "#FFFFFF",
       "tab_line": "#B9A8FF",
