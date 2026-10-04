@@ -4,6 +4,16 @@
   "name": "ThatDataPurple",
   "description": "A purple theme for Firefox in the That Data Person brand colours, by That Data Person Limited.",
   "author": "That Data Person Limited (www.thatdataperson.com)",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{84d20a3f-e209-4307-8636-7d33094c916b}",
+      "data_collection_permissions": {
+        "required": [
+          "none"
+        ]
+      }
+    }
+  },
   "icons": {
     "128": "images/ThatDataPurple.icon.png"
   },
